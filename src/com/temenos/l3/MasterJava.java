@@ -2,6 +2,6 @@ package com.temenos.l3;
 
 public class MasterJava {
     public static void main(String[] args) {
-    System.out.println("code on master branch masterjavas");
+    System.out.println("code on master branch masterjavasas");
     }
 }
